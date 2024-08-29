@@ -1,2 +1,3 @@
-# .github
-OCI-DPI Org Home 
+# OCI-DPI Org Home 
+
+This is the consolidated ORG for DPI repo.
